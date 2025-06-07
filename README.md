@@ -1,5 +1,5 @@
-📍 Google Maps Business Scraper
-Overview
+📍 Google Maps Business Scraper Overview
+
 This project is a web scraping tool that extracts business information from Google Maps based on any user-provided search keyword. Built with Selenium and Pandas, it collects business names, ratings, addresses, phone numbers, opening hours, and more — and exports the results into an Excel file for further analysis.
 
 🔧 Features
